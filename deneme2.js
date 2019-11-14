@@ -12,8 +12,14 @@ sequelize.authenticate().then(() => {
 });
 
 class User extends Model { }
+<<<<<<< HEAD
 lay
 yalelli
+=======
+lay la la la lay
+yalelli yalelli yalelelli
+tey tey tey tey tey
+>>>>>>> 4812dba819fdfa3fe177b63e9897517c4cec0075
 
 const orders = sequelize.define('Orders', {
     id: { type: DataTypes.INTEGER, primaryKey: true },
@@ -22,7 +28,7 @@ const orders = sequelize.define('Orders', {
     company_id: DataTypes.INTEGER,
     musteri_id: DataTypes.INTEGER
 });
-
+obaaaaaaaaaaaaa
 const orderDetail = sequelize.define('OrderDetail', {
     id: { type: DataTypes.INTEGER, primaryKey: true },
     order_id: DataTypes.INTEGER,
