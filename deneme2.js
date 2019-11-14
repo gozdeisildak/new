@@ -12,7 +12,7 @@ sequelize.authenticate().then(() => {
 });
 
 class User extends Model { }
-
+lay la la la lay
 yalelli yalelli yalelelli
 
 const orders = sequelize.define('Orders', {
