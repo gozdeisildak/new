@@ -1,10 +1,10 @@
 const { Sequelize, Model, DataTypes } = require('sequelize');
 
 const sequelize = new Sequelize('database1', 'root', 'Gozde2799', {
-    host:'localhost',
+    host: 'localhost',
     dialect: 'mysql',
-  //  port: 3306,
-//    database: 'stepg'
+    //  port: 3306,
+    //    database: 'stepg'
 });
 
 sequelize.authenticate().then(() => {
