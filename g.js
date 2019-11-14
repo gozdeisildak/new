@@ -264,11 +264,7 @@ Company_Parameters.sync({force: false})
     company_id:"vodafone"
   
   },
-  {
-    type:"fiyat_limiti",
-    value:"1000",
-    company_id:"vodafone"
-  }
+ 
   
   ])
 });
