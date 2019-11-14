@@ -13,6 +13,7 @@ sequelize.authenticate().then(() => {
 
 class User extends Model { }
 
+yalelli yalelli yalelelli
 
 const orders = sequelize.define('Orders', {
     id: { type: DataTypes.INTEGER, primaryKey: true },
@@ -39,7 +40,7 @@ orders.sync().then(() => {
         musteri_id: 1
     });
 });
-
+hopa şinanay şinnaynay
 orderDetail.sync().then(() => {
     orderDetail.create({
         id: 1,
