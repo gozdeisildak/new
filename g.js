@@ -5,13 +5,7 @@ const Op = Sequelize.Op;
 
 
 
-const app = express();
 
-const sequelize = new Sequelize('g', 'root', 'Gozde2799', {
-  host: 'localhost',
-  // port:3306,
-  dialect: 'mysql'
-});
 
 const Model = Sequelize.Model;
 /*
