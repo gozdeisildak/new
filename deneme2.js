@@ -19,6 +19,7 @@ yalelli
 lay la la la lay
 yalelli yalelli yalelelli
 tey tey tey tey tey
+leli de yaaaar lelliiiiiiiiiii
 >>>>>>> 4812dba819fdfa3fe177b63e9897517c4cec0075
 
 const orders = sequelize.define('Orders', {
