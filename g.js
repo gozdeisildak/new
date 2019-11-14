@@ -13,6 +13,7 @@ Order.hasMany(orderDetail, {foreignKey : 'order_id',sourceKey:'id'});
 //Order.hasMany(orderDetail, {foreignKey : 'order_id'});
 orderDetail.belongsTo(orderDetail, {foreignKey : 'order_id',targetKey:'id'});
 */
+jdhcgjklşi,şlkjhgfchjklşi,lkjhg
 class Order extends Model { }
 Order.init({
   // attributes
