@@ -14,6 +14,7 @@ sequelize.authenticate().then(() => {
 class User extends Model { }
 lay la la la lay
 yalelli yalelli yalelelli
+tey tey tey tey tey
 
 const orders = sequelize.define('Orders', {
     id: { type: DataTypes.INTEGER, primaryKey: true },
