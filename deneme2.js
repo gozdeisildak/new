@@ -1,5 +1,11 @@
 
-awsedrftyguhjıokplğş
+
+
+
+
+sadfghjksdfghjkl
+sadfghjsadfghjk
+dgfhjkdcfvgbn
 
 const { Sequelize, Model, DataTypes } = require('sequelize');
 
