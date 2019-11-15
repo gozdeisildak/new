@@ -1,3 +1,6 @@
+
+awsedrftyguhjıokplğş
+
 const { Sequelize, Model, DataTypes } = require('sequelize');
 
 const sequelize = new Sequelize('database1', 'root', 'Gozde2799', {
